@@ -6,7 +6,7 @@
     "local_port": 1080,
 
     "password": "860112",
-    "method": "none",
+    "method": "aes-128-cfb",
     "protocol": "origin",
     "protocol_param": "",
     "obfs": "plain",
