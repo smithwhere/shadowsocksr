@@ -16,8 +16,8 @@
 
     "additional_ports" : {}, // only works under multi-user mode
     "additional_ports_only" : false, // only works under multi-user mode
-    "timeout": 120,
-    "udp_timeout": 60,
+    "timeout": 1200,
+    "udp_timeout": 600,
     "dns_ipv6": false,
     "connect_verbose_info": 0,
     "redirect": "",
