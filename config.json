@@ -4,7 +4,6 @@
     "server_port": 7000,
     "local_address": "127.0.0.1",
     "local_port": 1080,
-
     "password": "860112",
     "method": "aes-128-cfb",
     "protocol": "origin",
@@ -13,7 +12,6 @@
     "obfs_param": "",
     "speed_limit_per_con": 0,
     "speed_limit_per_user": 0,
-
     "additional_ports" : {}, // only works under multi-user mode
     "additional_ports_only" : false, // only works under multi-user mode
     "timeout": 120,
@@ -21,5 +19,5 @@
     "dns_ipv6": false,
     "connect_verbose_info": 0,
     "redirect": "",
-    "fast_open": false
+    "fast_open": true
 }
