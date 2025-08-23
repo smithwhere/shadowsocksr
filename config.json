@@ -19,5 +19,5 @@
     "dns_ipv6": false,
     "connect_verbose_info": 0,
     "redirect": "",
-    "fast_open": true
+    "fast_open": false
 }
